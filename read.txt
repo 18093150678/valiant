@@ -2,6 +2,7 @@ Read mee
 2021-09-05 insert lee
 2021-09-06 select * from lee 
 2021-09-06 17:30  update lee set 'a' valuant '2'
+2021-09-06 myleegit create delete from tablesname
 2021-09-06 valiantgit delete from lee
 c++ java python
-
+2021-09-06 new rows
