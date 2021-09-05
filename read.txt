@@ -1,2 +1,3 @@
 Read mee
-2021-09-05 insert lee 
+2021-09-05 insert lee
+2021-09-06 select * from lee 
