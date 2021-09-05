@@ -2,8 +2,6 @@ Read mee
 2021-09-05 insert lee
 2021-09-06 select * from lee 
 2021-09-06 17:30  update lee set 'a' valuant '2'
-<<<<<<< HEAD
 2021-09-06 myleegit create delete from tablesname
-=======
 2021-09-06 valiantgit delete from lee
->>>>>>> 2b16f474fa70c21539269ae9efa603d8e67f696f
+2021-09-06 new rows
